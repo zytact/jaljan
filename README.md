@@ -63,7 +63,7 @@ src/
 - Edit pages in `src/app/`
 - Add components in `src/components/`
 - Use `src/lib/utils.ts` for utility functions
-- Follow TypeScript strict mode and Biome formatting
+- Follow TypeScript strict mode and Biome formatting ([VS Code Extension](https://marketplace.visualstudio.com/items?itemName=biomejs.biome))
 
 ## Contributing
 
